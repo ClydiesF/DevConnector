@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://clyde123:clyde123@devconnector.rygg0.mongodb.net/test",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "74c61c03ee46abbe8bec",
+    "githubSecret": "3a2cdd6793d16b9ea8caa5857d57b1083d1efb0c"
+}
